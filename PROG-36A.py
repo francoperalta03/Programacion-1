@@ -1,7 +1,7 @@
 # PROG-36A
 # Version 1.0
 # Programa para realizar varias actividades con las matrices
-# Autor: Matteozzi y Marzorati
+# Autor: Matteozzi, Marzorati, Peralta y Sosa
 
 # Importar librerias
 import random
